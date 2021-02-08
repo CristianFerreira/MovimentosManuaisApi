@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\MovimentosManuais.Application\MovimentosManuais.Application.csproj" />
+    <ProjectReference Include="..\MovimentosManuais.Core.Api\MovimentosManuais.Domain.Core.Application.csproj" />
+    <ProjectReference Include="..\MovimentosManuais.Core\MovimentosManuais.Domain.Core.csproj" />
+    <ProjectReference Include="..\MovimentosManuais.Persistence.Api\MovimentosManuais.Domain.Persistence.Application.csproj" />
+    <ProjectReference Include="..\MovimentosManuais.Persistence\MovimentosManuais.Infrastructure.Persistence.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="Microsoft.Extensions.DependencyInjection.Abstractions">
+      <HintPath>..\..\..\..\Program Files\dotnet\sdk\NuGetFallbackFolder\microsoft.extensions.dependencyinjection.abstractions\2.1.1\lib\netstandard2.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

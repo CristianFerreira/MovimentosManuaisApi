@@ -1,0 +1,64 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.1",
+    "signature": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "MovimentosManuais.Domain.Core/1.0.0": {
+        "dependencies": {
+          "MovimentosManuais.Domain.Core.Application": "1.0.0",
+          "MovimentosManuais.Domain.Persistence.Application": "1.0.0",
+          "MovimentosManuais.Domains": "1.0.0"
+        },
+        "runtime": {
+          "MovimentosManuais.Domain.Core.dll": {}
+        }
+      },
+      "MovimentosManuais.Domain.Core.Application/1.0.0": {
+        "dependencies": {
+          "MovimentosManuais.Domains": "1.0.0"
+        },
+        "runtime": {
+          "MovimentosManuais.Domain.Core.Application.dll": {}
+        }
+      },
+      "MovimentosManuais.Domain.Persistence.Application/1.0.0": {
+        "dependencies": {
+          "MovimentosManuais.Domains": "1.0.0"
+        },
+        "runtime": {
+          "MovimentosManuais.Domain.Persistence.Application.dll": {}
+        }
+      },
+      "MovimentosManuais.Domains/1.0.0": {
+        "runtime": {
+          "MovimentosManuais.Domains.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MovimentosManuais.Domain.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MovimentosManuais.Domain.Core.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MovimentosManuais.Domain.Persistence.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MovimentosManuais.Domains/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

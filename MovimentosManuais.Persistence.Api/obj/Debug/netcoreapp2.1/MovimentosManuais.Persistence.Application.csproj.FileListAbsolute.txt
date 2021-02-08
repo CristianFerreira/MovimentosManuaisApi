@@ -1,0 +1,12 @@
+C:\Exame\MovimentosManuaisC\MovimentosManuais.Persistence.Api\bin\Debug\netcoreapp2.1\MovimentosManuais.Persistence.Application.deps.json
+C:\Exame\MovimentosManuaisC\MovimentosManuais.Persistence.Api\bin\Debug\netcoreapp2.1\MovimentosManuais.Persistence.Application.dll
+C:\Exame\MovimentosManuaisC\MovimentosManuais.Persistence.Api\bin\Debug\netcoreapp2.1\MovimentosManuais.Persistence.Application.pdb
+C:\Exame\MovimentosManuaisC\MovimentosManuais.Persistence.Api\bin\Debug\netcoreapp2.1\MovimentosManuais.Domains.dll
+C:\Exame\MovimentosManuaisC\MovimentosManuais.Persistence.Api\bin\Debug\netcoreapp2.1\MovimentosManuais.Domains.pdb
+C:\Exame\MovimentosManuaisC\MovimentosManuais.Persistence.Api\obj\Debug\netcoreapp2.1\MovimentosManuais.Persistence.Application.csprojAssemblyReference.cache
+C:\Exame\MovimentosManuaisC\MovimentosManuais.Persistence.Api\obj\Debug\netcoreapp2.1\MovimentosManuais.Persistence.Application.csproj.CoreCompileInputs.cache
+C:\Exame\MovimentosManuaisC\MovimentosManuais.Persistence.Api\obj\Debug\netcoreapp2.1\MovimentosManuais.Persistence.Application.AssemblyInfoInputs.cache
+C:\Exame\MovimentosManuaisC\MovimentosManuais.Persistence.Api\obj\Debug\netcoreapp2.1\MovimentosManuais.Persistence.Application.AssemblyInfo.cs
+C:\Exame\MovimentosManuaisC\MovimentosManuais.Persistence.Api\obj\Debug\netcoreapp2.1\MovimentosManuais.Persistence.Application.csproj.CopyComplete
+C:\Exame\MovimentosManuaisC\MovimentosManuais.Persistence.Api\obj\Debug\netcoreapp2.1\MovimentosManuais.Persistence.Application.dll
+C:\Exame\MovimentosManuaisC\MovimentosManuais.Persistence.Api\obj\Debug\netcoreapp2.1\MovimentosManuais.Persistence.Application.pdb

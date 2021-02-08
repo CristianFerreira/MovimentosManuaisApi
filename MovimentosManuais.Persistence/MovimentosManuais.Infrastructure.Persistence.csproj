@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\MovimentosManuais.Domains\MovimentosManuais.Domains.csproj" />
+    <ProjectReference Include="..\MovimentosManuais.Libraries\MovimentosManuais.Libraries.csproj" />
+    <ProjectReference Include="..\MovimentosManuais.Persistence.Api\MovimentosManuais.Domain.Persistence.Application.csproj" />
+  </ItemGroup>
+
+</Project>

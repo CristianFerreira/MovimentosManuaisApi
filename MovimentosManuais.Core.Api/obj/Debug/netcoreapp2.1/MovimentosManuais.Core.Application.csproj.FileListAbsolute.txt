@@ -1,0 +1,12 @@
+C:\Exame\MovimentosManuaisC\MovimentosManuais.Core.Api\bin\Debug\netcoreapp2.1\MovimentosManuais.Core.Application.deps.json
+C:\Exame\MovimentosManuaisC\MovimentosManuais.Core.Api\bin\Debug\netcoreapp2.1\MovimentosManuais.Core.Application.dll
+C:\Exame\MovimentosManuaisC\MovimentosManuais.Core.Api\bin\Debug\netcoreapp2.1\MovimentosManuais.Core.Application.pdb
+C:\Exame\MovimentosManuaisC\MovimentosManuais.Core.Api\bin\Debug\netcoreapp2.1\MovimentosManuais.Domains.dll
+C:\Exame\MovimentosManuaisC\MovimentosManuais.Core.Api\bin\Debug\netcoreapp2.1\MovimentosManuais.Domains.pdb
+C:\Exame\MovimentosManuaisC\MovimentosManuais.Core.Api\obj\Debug\netcoreapp2.1\MovimentosManuais.Core.Application.csprojAssemblyReference.cache
+C:\Exame\MovimentosManuaisC\MovimentosManuais.Core.Api\obj\Debug\netcoreapp2.1\MovimentosManuais.Core.Application.csproj.CoreCompileInputs.cache
+C:\Exame\MovimentosManuaisC\MovimentosManuais.Core.Api\obj\Debug\netcoreapp2.1\MovimentosManuais.Core.Application.AssemblyInfoInputs.cache
+C:\Exame\MovimentosManuaisC\MovimentosManuais.Core.Api\obj\Debug\netcoreapp2.1\MovimentosManuais.Core.Application.AssemblyInfo.cs
+C:\Exame\MovimentosManuaisC\MovimentosManuais.Core.Api\obj\Debug\netcoreapp2.1\MovimentosManuais.Core.Application.csproj.CopyComplete
+C:\Exame\MovimentosManuaisC\MovimentosManuais.Core.Api\obj\Debug\netcoreapp2.1\MovimentosManuais.Core.Application.dll
+C:\Exame\MovimentosManuaisC\MovimentosManuais.Core.Api\obj\Debug\netcoreapp2.1\MovimentosManuais.Core.Application.pdb
